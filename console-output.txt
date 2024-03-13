@@ -1,0 +1,43 @@
+Name: Harsh Mishra
+Age: 21
+Avatar File: {
+  fieldname: 'avatar',
+  originalname: 'avatar.png',
+  encoding: '7bit',
+  mimetype: 'image/png',
+  destination: 'uploads/',
+  filename: 'avatar-1710355360215.png',
+  path: 'uploads\\avatar-1710355360215.png',
+  size: 14397
+}
+Favorite Images Details:
+{
+  fieldname: 'favImages',
+  originalname: 'cartoon-3.png',
+  encoding: '7bit',
+  mimetype: 'image/png',
+  destination: 'uploads/',
+  filename: 'favImages-1710355360217.png',
+  path: 'uploads\\favImages-1710355360217.png',
+  size: 29214
+}
+{
+  fieldname: 'favImages',
+  originalname: 'cartoon-2.png',
+  encoding: '7bit',
+  mimetype: 'image/png',
+  destination: 'uploads/',
+  filename: 'favImages-1710355360218.png',
+  path: 'uploads\\favImages-1710355360218.png',
+  size: 28767
+}
+{
+  fieldname: 'favImages',
+  originalname: 'cartoon-1.png',
+  encoding: '7bit',
+  mimetype: 'image/png',
+  destination: 'uploads/',
+  filename: 'favImages-1710355360223.png',
+  path: 'uploads\\favImages-1710355360223.png',
+  size: 31103
+}
